@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Post</string>
+    <string name="title_activity_main_page__post">MainPage_Post</string>
+</resources>
